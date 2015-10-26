@@ -1,0 +1,23 @@
+{
+  "CHANGELOG": "695d021222e0182cfb72532074e2bd27",
+  "Gemfile": "31d67830f694c2af4c709d46c513bbc7",
+  "LICENSE": "391c93fec414bcea2a8aa9d34782c17b",
+  "Modulefile": "a109e04c6de64f79f94592ad90379a38",
+  "README.md": "a275acc06d3e808dcdadf512963b5f82",
+  "Rakefile": "64c3c39c53f956c314dd2fd3306ac7b4",
+  "Vagrantfile": "ef83e522a67ba3690692d04b54279dfc",
+  "manifests/agent/php.pp": "84c1b5e3dc026b3defb9d9566968fe34",
+  "manifests/init.pp": "972a81c6768488c9a5c0ca09b3f62f7c",
+  "manifests/params.pp": "e5b725d1e1e44482fb0c34783ef74e45",
+  "manifests/php/newrelic_ini.pp": "a9368885700a03c5f87e4d258d342c14",
+  "manifests/php.pp": "a74b498d133706eef9e23ad6cbd1a6e1",
+  "manifests/server/linux.pp": "1fccf2cff3c0710a2af3cee9bd47b623",
+  "manifests/server.pp": "99c54bd4edf5601fb4cf5b6e39c08a1b",
+  "metadata.json": "7d59f9d361c768d73733a8d4c79659ab",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/newrelic.cfg.erb": "ed7dae80cfaec15fa7147801e52ff779",
+  "templates/newrelic.ini.erb": "c03bee5ceb05f1ee322e6bd8980b4969",
+  "templates/nrsysmond.cfg.erb": "e453a640686b97a7406344bcc186e4bc",
+  "tests/init.pp": "0edce3859a8af2edf3e67c30de82709f",
+  "tests/php.pp": "4cda8d9d4089f802c2d18b4ab1ae68ae"
+}
